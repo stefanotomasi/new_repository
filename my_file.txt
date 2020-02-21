@@ -1,2 +1,4 @@
 This is a text file.
 We will track changes with git.
+Here is a new line that wasn't here before.
+Here is another line for shits and gigs.
