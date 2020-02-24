@@ -1,4 +1,5 @@
 This is a text file.
 We will track changes with git.
 Here is a new line that wasn't here before.
-Making another change to try something
+Making another change to this file on master branch.
+I'll also add another line here.
