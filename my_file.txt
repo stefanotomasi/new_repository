@@ -1,4 +1,4 @@
 This is a text file.
 We will track changes with git.
 Here is a new line that wasn't here before.
-A change in my master branch.
+A change in my master branch along side the other change I made in another branch.
